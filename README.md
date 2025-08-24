@@ -5,7 +5,9 @@ This project demonstrates a full stack web application built with both server-re
 
 The application was developed as part of a full stack development course, providing hands-on experience with modern frameworks, API integration, and database design.  
 
-(https://i.imgur.com/lWN0KlV.png)
+<img src="https://i.imgur.com/lWN0KlV.png"/>
+
+
 ## Architecture  
 
 ### Server-Side Rendering (Express, HTML, JavaScript)  
