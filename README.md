@@ -6,11 +6,11 @@ This project demonstrates a full stack web application built with both server-re
 The application was developed as part of a full stack development course, providing hands-on experience with modern frameworks, API integration, and database design.  
 
 ---
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/M6HyEYK" data-context="false" ><a href="//imgur.com/a/M6HyEYK"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[<blockquote class="imgur-embed-pub" lang="en" data-id="a/M6HyEYK" data-context="false" ><a href="//imgur.com/a/M6HyEYK"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 https://imgur.com/a/M6HyEYK
-
+](https://i.imgur.com/lWN0KlV.png)
 ## Architecture  
 
 ### Server-Side Rendering (Express, HTML, JavaScript)  
