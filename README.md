@@ -1,7 +1,7 @@
 # Travlr – Full Stack Development Project  
 
 ## Overview  
-This project demonstrates a full stack web application built with both server-rendered pages and a single-page application (SPA). It integrates multiple technologies—**Express, Handlebars, HTML, JavaScript, Angular, and MongoDB**—to highlight different approaches to front-end and back-end development.  
+This project demonstrates a full stack web application built with both server-rendered pages and a single-page application (SPA). It integrates multiple technologies **Express, Handlebars, HTML, JavaScript, Angular, and MongoDB** to highlight different approaches to front-end and back-end development.  
 
 The application was developed as part of a full stack development course, providing hands-on experience with modern frameworks, API integration, and database design.  
 
