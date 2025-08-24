@@ -1,0 +1,54 @@
+<div id="header">
+				<div id="logo">
+					<a href="index.html"><img src="images/logo.png" alt="LOGO" height="100" width="200"></a>
+				</div>
+				<div id="navigation">
+					<ul>
+						<li id="home">
+							<a href="/">Home</a>
+						</li>
+						<li id="travel">
+							<a href="/travel">Travel</a>
+						</li>
+						<li id="rooms">
+							<a href="/rooms">Rooms</a>
+						</li>
+						<li id="meals">
+							<a href="/meals">Meals</a>
+						</li>
+						<li id="news">
+							<a href="/news">News</a>
+						</li>
+						<li id="about">
+							<a href="/about">About</a>
+						</li>
+						<li id="contact">
+							<a href="/contact">Contact</a>
+						</li>
+					</ul>
+				</div>
+				<script>
+				var currentLocation = window.location.pathname;
+				if(currentLocation=='/'){
+					document.getElementById('home').className="selected"
+				}
+				else if(currentLocation=='/travel'){
+					document.getElementById('travel').className="selected"
+				}
+				else if(currentLocation=='/rooms'){
+					document.getElementById('rooms').className="selected"
+				}
+				else if(currentLocation=='/meals'){
+					document.getElementById('meals').className="selected"
+				}
+				else if(currentLocation=='/news'){
+					document.getElementById('news').className="selected"
+				}
+				else if(currentLocation=='/about'){
+					document.getElementById('about').className="selected"
+				}
+				else if(currentLocation=='/contact'){
+					document.getElementById('contact').className="selected"
+				}
+				</script>
+			</div>
