@@ -69,7 +69,4 @@ These experiences make me a stronger candidate for full stack and software engin
 
 ---
 
-## How to Run  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/babatopeayeni/travlr.git
+ 
